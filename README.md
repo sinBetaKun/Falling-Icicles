@@ -15,6 +15,6 @@
 > 
 > [ぱちゅコン風ドット絵展示場 - GridNote](https://gridnote.blog.fc2.com/blog-entry-2.html)
 
-本プラグインは、2025年4月8日 をもって本体の配布を終了とともに、ソースコードを別リポジトリに公開しました。
+~1~本プラグインは、2025年4月8日 をもって本体の配布を終了とともに、ソースコードを別リポジトリに公開しました。
 
 ソースコード：https://github.com/sinBetaKun/Falling_Icicles
